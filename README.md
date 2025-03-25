@@ -9,3 +9,8 @@ This Jupyter notebook demonstrates how to make predictions of the size of Califo
 
 To view the code and learn more about this model you can click the link below.
 [Open in Colab](https://colab.research.google.com/github/Ivasquez2003/Data-Mining/blob/main/Linear_Regression_Example_with_the_Fire_Data.ipynb)
+
+
+## Automating Data Exploration with AutoViz
+This code loads the "Titanic" dataset from Seaborn and uses the AutoViz_Class to automatically generate visualizations for the dataset.
+[Open in Colab](https://colab.research.google.com/github/Ivasquez2003/Data-Mining/blob/main/Autoviz.ipynb)
