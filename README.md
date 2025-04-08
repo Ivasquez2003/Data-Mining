@@ -14,3 +14,7 @@ To view the code and learn more about this model you can click the link below.
 ## Automating Data Exploration with AutoViz
 This code loads the "Titanic" dataset from Seaborn and uses the AutoViz_Class to automatically generate visualizations for the dataset.
 [Open in Colab](https://colab.research.google.com/github/Ivasquez2003/Data-Mining/blob/main/Autoviz.ipynb)
+
+## Mining the Classics
+This project analyzes the frequency of specific characters mentioned in classic novels (Pride and Prejudice, Frankenstein, and Little Women) using Python and data science tools. 
+[Open in Colab](https://colab.research.google.com/drive/1BpbpUFUq7OhBlvGaFvbyy-ioZEPE0LRY#scrollTo=5dAy1PQwVuEt)
